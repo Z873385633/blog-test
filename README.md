@@ -13,7 +13,7 @@ git入门学习经历
 
 这个错误
 ```
-### git push -u origin main
+### git push -u origin master
 error: src refspec main does not match any
 error: failed to push some refs to 'github.com:Z873385633/git-demo1.git'
 ```
